@@ -1,0 +1,7 @@
+C:\Users\Hi-Tech\Documents\visproect\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+C:\Users\Hi-Tech\Documents\visproect\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+C:\Users\Hi-Tech\Documents\visproect\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+C:\Users\Hi-Tech\Documents\visproect\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.AssemblyReference.cache
+C:\Users\Hi-Tech\Documents\visproect\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.CoreCompileInputs.cache
+C:\Users\Hi-Tech\Documents\visproect\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+C:\Users\Hi-Tech\Documents\visproect\ConsoleApp31\obj\Debug\ConsoleApp31.pdb
